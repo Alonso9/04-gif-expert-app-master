@@ -1,0 +1,13 @@
+form {
+    padding-left: 35%;
+}
+
+.search {
+    width: 50%;
+}
+
+.selectInput {
+    margin-top: 10px;
+    padding-top: 10px;
+    width: 40%;
+}
